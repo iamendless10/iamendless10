@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://media.tenor.com/I1NARftewZcAAAAd/profile.gif">
+<img align="center" width="900" src="https://media.tenor.com/I1NARftewZcAAAAd/profile.gif">
 <h1 align="center">Hi 👋, I'm Kayal Ennian A G</h1>
 <h3 align="center">A passionate UI/UX | Android developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
