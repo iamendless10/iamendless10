@@ -1,4 +1,4 @@
-<img align="center" height="400" width="1300" src="https://i.pinimg.com/originals/47/74/2b/47742b28b948212e80a31a8f5b516483.gif">
+<img align="center" height="400" width="1300" src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif">
 <h1 align="center">Hi 👋, I'm Kayal Ennian A G</h1>
 <h3 align="center">A passionate UI/UX | Android developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
