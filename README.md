@@ -1,4 +1,4 @@
-<h2><img src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://media.tenor.com/2UkHz5-9U6UAAAAi/kaguya-sama-love-is-war-anime.gif" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.tenor.com/1uKpKHCxNsEAAAAi/anime-joget-rgb.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="230">
 </em></p>
 
