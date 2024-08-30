@@ -1,5 +1,4 @@
 <h2><img src="https://media.tenor.com/pXmDXN3pwPwAAAAi/esiledoodles-esiledoodles-cora.gif" width="50"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" width="50"></h2>
-<img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="350">
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kayal?label=Follow)](https://twitter.com/intent/follow?screen_name=kayalennian)
@@ -10,7 +9,7 @@
 
 
 
-
+<img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="350">
 
 
 
