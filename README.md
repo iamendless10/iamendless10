@@ -1,4 +1,4 @@
-<img align="center" height="400" width="1300" src="https://tenor.com/view/gojo-satoru-satoru-gojo-gojo-jujutsu-kaisen-manga-gif-17386688786442927012">
+<img align="center" height="400" width="1300" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
 <h1 align="center">Hi 👋, I'm Kayal Ennian A G</h1>
 <h3 align="center">Passionate Indian UI/UX and Android developer with a flair for creativity.</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
