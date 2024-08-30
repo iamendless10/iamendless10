@@ -8,9 +8,10 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vuega.net/)](https://vuega.net/)
 
 
-<div allign='center' justify-content="center">
-  <img align='center' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="320" height="350">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="320" height="350">
 </div>
+
 
 
 
