@@ -1,4 +1,4 @@
-<h2><img src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="50"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.tenor.com/1uKpKHCxNsEAAAAi/anime-joget-rgb.gif" width="50"></h2>
+<h2><img src="https://media.tenor.com/r14YDFN-_-IAAAAi/sharingan.gif" width="50"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.tenor.com/r14YDFN-_-IAAAAi/sharingan.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="230">
 </em></p>
 
