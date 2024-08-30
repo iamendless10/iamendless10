@@ -1,74 +1,79 @@
-<h2><img src="https://media.tenor.com/pXmDXN3pwPwAAAAi/esiledoodles-esiledoodles-cora.gif" width="50"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" width="50"></h2>
-</em></p>
+<div style="text-align: center;">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kayal?label=Follow)](https://twitter.com/intent/follow?screen_name=kayalennian)
-[![Linkedin: Kayal](https://img.shields.io/badge/-kayal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayal/)](https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vuega.net/)](https://vuega.net/)
+  <h2>
+    <img src="https://media.tenor.com/pXmDXN3pwPwAAAAi/esiledoodles-esiledoodles-cora.gif" width="50"/> 
+    नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! 
+    <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" width="50">
+  </h2>
 
+  <!-- Social Media Links -->
+  <div>
+    <a href="https://twitter.com/intent/follow?screen_name=kayalennian">
+      <img src="https://img.shields.io/twitter/follow/kayal?label=Follow" alt="Twitter Follow">
+    </a>
+    <a href="https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/">
+      <img src="https://img.shields.io/badge/-kayal-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: Kayal">
+    </a>
+    <img src="https://img.shields.io/github/followers/anmol098?label=Follow&style=social" alt="GitHub followers">
+    <a href="https://vuega.net/">
+      <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
+    </a>
+  </div>
 
+  <!-- GIF -->
+  <div>
+    <img src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="250">
+  </div>
 
+  <!-- Content -->
+  <div style="margin-top: 20px;">
+    <h3>📫 Like to meet me?</h3>
+    <p>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</p>
 
-<img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="400" height="350">
+    <a href="https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/" target="_blank">
+      <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+    </a>
 
+    <p>👇 Hit in your console or terminal to connect with me.</p>
 
+    <pre>
+      <code>npx kayal</code>
+    </pre>
 
+    <p><strong>👆 This command line tool can be found at <a href="https://github.com/iamendless10/npx_card">npx anmol</a></strong></p>
 
-### 📫 Like to meet me?
+    <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h3>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+    <pre>
+      <code>
+        const kayal = {
+            pronouns: "He" | "Him",
+            code: ["C++", "Python", "Java", "JavaScript"],
+            askMeAbout: ["DSA", "tech", "app dev", "web dev"],
+            technologies: {
+                backEnd: {
+                    js: ["Node", "Fastify", "Express"],
+                },
+                mobileApp: {
+                    native: ["Flutter","Kotlin"]
+                },
+                devOps: ["AWS", "Docker🐳"],
+                databases: ["mongo", "MySql", "PostgreSQL"],
+                misc: ["Firebase", "selenium", "open-cv"]
+            },
+            architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+            currentFocus: "Grinding DSA",
+            funFact: "There are two ways to write error-free programs; only the third one works"
+        };
+      </code>
+    </pre>
 
-<a href="https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/" target="_blank">
-  <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
-</a>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+    <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  </div>
 
+</div>
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx kayal
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/iamendless10/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const kayal = {
-    pronouns: "He" | "Him",
-    code: ["C++", "Python", "Java", "JavaScript"],
-    askMeAbout: ["DSA", "tech", "app dev", "web dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Flutter","Kotlin"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase", "selenium", "open-cv"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Grinding DSA",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%2056%20mins-blue)
-
-
-**🐱 My GitHub Data** 
-
-> 📦 185.8 kB Used in GitHub's Storage 
- > 
-> 🏆 106 Contributions in the Year 2024
- > 
-> 📜 10 Public Repositories 
- > 
 
 **I'm an Night guy 🦇 and most productive on sunday** 
 
