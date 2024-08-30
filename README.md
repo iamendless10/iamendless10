@@ -9,7 +9,7 @@
 
 
 
-<img align='center' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="320" height="350">
+<img align='right' src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="320" height="350">
 
 
 
