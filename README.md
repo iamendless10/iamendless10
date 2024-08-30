@@ -1,49 +1,48 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kayal Ennian A G! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kayal?label=Follow)](https://twitter.com/intent/follow?screen_name=kayalennian)
+[![Linkedin: Kayal](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayal/)](https://www.linkedin.com/in/kayal-ennian-a-g-80b515245/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vuega.net/)](https://vuega.net/)
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+</a>
+
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx kayal
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx anmol](https://github.com/iamendless10/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const kayal = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["C++", "Python", "Java", "JavaScript"],
+    askMeAbout: ["DSA", "tech", "app dev", "web dev"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Flutter","Kotlin"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "selenium", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Grinding DSA",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -54,7 +53,6 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1807-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -62,15 +60,12 @@ const anmol = {
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2024
+> 🏆 106 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 📜 10 Public Repositories 
  > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
+
+**I'm an Night guy 🦇** 
 
 ```text
 🌞 Morning                760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
@@ -79,17 +74,6 @@ const anmol = {
 🌙 Night                  588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
 📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Tuesday                  615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Wednesday                726 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Thursday                 588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Sunday                   916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -109,25 +93,16 @@ WebStorm                 10 hrs 55 mins      ███████████�
 DataGrip                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
+Windows OS                      22 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in C++** 
 
 ```text
-Java                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   12.00 % 
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 
-
-
-
- Last Updated on 30/08/2024 00:28:27 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
