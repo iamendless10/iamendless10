@@ -40,7 +40,7 @@ npx kayal
 ```javascript
 const kayal = {
     pronouns: "He" | "Him",
-    code: ["Python", "R", "Julia", "C++"],
+    code: ["Python", "C++", Dart],
     askMeAbout: ["Machine Learning", "Deep Learning", "LLMs", "GenAI", "AI4SocialGood"],
     technologies: {
         AI_ML: {
