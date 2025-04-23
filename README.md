@@ -40,23 +40,27 @@ npx kayal
 ```javascript
 const kayal = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "Java", "JavaScript"],
-    askMeAbout: ["DSA", "tech", "app dev", "web dev"],
+    code: ["Python", "R", "Julia", "C++"],
+    askMeAbout: ["Machine Learning", "Deep Learning", "LLMs", "GenAI", "AI4SocialGood"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        AI_ML: {
+            frameworks: ["TensorFlow", "PyTorch", "Scikit-Learn"],
+            libraries: ["Transformers", "OpenCV", "Keras", "XGBoost"],
+            tools: ["MLflow", "Weights & Biases", "Label Studio"]
         },
-        mobileApp: {
-            native: ["Flutter","Kotlin"]
+        dataScience: {
+            analysis: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            notebooks: ["Jupyter", "Google Colab", "Kaggle Notebooks"]
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase", "selenium", "open-cv"]
+        devOps: ["Docker🐳", "Streamlit", "Gradio"],
+        databases: ["PostgreSQL", "MongoDB"],
+        misc: ["LangChain", "Hugging Face", "OpenAI API"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Grinding DSA",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["LLM pipelines", "RAG", "Model-as-a-Service"],
+    currentFocus: "Research in GenAI & Applied AI for Healthcare",
+    funFact: "My ML models sometimes hallucinate, but they still outperform my sleep-deprived brain 😄"
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
